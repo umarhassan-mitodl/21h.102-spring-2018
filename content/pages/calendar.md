@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section includes the course topics and key due dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -70,7 +72,7 @@ Analyzing Primary Sources: Reconstruction
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Screening: {{% resource_link "de155ecc-f65d-4c45-9a50-0b61841c0bce" "_Independent Lens: Birth of a Movement - The Battle Against American's First Blockbuster_" %}}. Directed by Bestor Cram and Susan Gray. Color, 60 mins. 2017.
+Screening: [_Independent Lens: Birth of a Movement - The Battle Against American's First Blockbuster_](https://www.imdb.com/title/tt6516480/). Directed by Bestor Cram and Susan Gray. Color, 60 mins. 2017.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -292,7 +294,7 @@ Power, Protest, and the Politics of Identity
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Visit to {{% resource_link "778edadc-fa6b-49cc-8096-23db3d1934ec" "MIT Archives and Special Collections" %}}
+Visit to [MIT Archives and Special Collections](https://libraries.mit.edu/archives/)
 {{< tdclose >}}
 {{< tdopen >}}
 Final paper proposal due

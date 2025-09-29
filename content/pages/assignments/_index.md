@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section includes the course assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: fbb6e1b6-53bb-013c-4e01-d45c2ad75ee7
 
 Students enrolled in the subject write three papers over the course of the term:
 
-*   Two short (5–6 pp.) papers, the second of which must be revised and resubmitted in accordance with {{% resource_link "621ce802-7772-4655-9657-e84dd15fe835" "CI-H" %}} guidelines, and
+*   Two short (5–6 pp.) papers, the second of which must be revised and resubmitted in accordance with [CI-H](http://web.mit.edu/commreq/faculty%20ci-h.html#CI-H%20Subjects) guidelines, and
 *   One longer (10–12 pp.) final paper on a topic chosen in consultation with instructors. Preparatory writing exercises, including a graded proposal, will help students develop a topic and shape an argument before submitting a final paper.
 
 In addition to these writing assignments, students complete four informal reading reflections (1 pp. in length) over the course of the term (students may choose the weeks in which they submit reflections). These short reflections, submitted in advance of class, will count toward an overall participation grade.
