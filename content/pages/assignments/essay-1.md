@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: 'This section contains information for writing Essay #1.'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ _The historian Eric Foner argues that Reconstruction should be understood as an 
 
 Essays should present an original argument that responds to the above prompt. This argument should be unique (of your own making) and should reflect careful and serious engagement with course materials. It should also be clearly expressed and organized, so a reader would have no problem understanding both the overall argument and its progression through your essay. In crafting your argument, you should draw on lecture, discussion, and secondary source readings (materials assigned for Lecture 2). Evidence in support of this argument should be drawn from at least three primary sources (materials assigned for Lecture 3).
 
-Essays should be approximately 1250 words in length (please include a word count at the end of your essay), double-spaced, and written in a 12 point font. They should include page numbers, properly formatted footnotes with accurate citations, and a title that reflects the paper’s argument. All sources should be cited using the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html) (see the [Chicago-Style Citation Quick Guide](http://www.chicagomanualofstyle.org/tools_citationguide.html)). For an example of what citations in Chicago format look like, see the footnote at the bottom of this page.
+Essays should be approximately 1250 words in length (please include a word count at the end of your essay), double-spaced, and written in a 12 point font. They should include page numbers, properly formatted footnotes with accurate citations, and a title that reflects the paper’s argument. All sources should be cited using the {{% resource_link "836080c6-3880-45ea-b06d-c5693e87214a" "Chicago Manual of Style" %}} (see the {{% resource_link "b1f4ef0a-ceaf-4b16-b5d3-b2f896cbc4e5" "Chicago-Style Citation Quick Guide" %}}). For an example of what citations in Chicago format look like, see the footnote at the bottom of this page.
 
 Essays will be evaluated according to:
 

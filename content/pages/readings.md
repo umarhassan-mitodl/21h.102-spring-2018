@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section includes the course readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,13 +8,13 @@ title: Readings
 uid: 3724b6b0-5599-facd-830c-ea7814517751
 ---
 
-\[F\] = Foner, Eric. _A Short History of Reconstruction: Updated Edition_. Harper Perennial Modern Classics, 2015. ISBN: 9780062370860. \[Preview with [Google Books](https://books.google.com/books?id=w6QEBAAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[F\] = Foner, Eric. _A Short History of Reconstruction: Updated Edition_. Harper Perennial Modern Classics, 2015. ISBN: 9780062370860. \[Preview with {{% resource_link "04ff57cc-41c8-43cb-8547-ae88f8706a05" "Google Books" %}}\]
 
 \[P\] = Polenberg, Richard D., ed. _The Era of Franklin D. Roosevelt, 1933–1945: A Brief History with Documents._ Bedford / St. Martin's, 2000. ISBN: 9780312133108.
 
-\[T\] = Trachtenberg, Alan. _The Incorporation of America: Culture and Society in the Gilded Age: 25th Anniversary Edition_. Hill and Wang, 2007. ISBN: 9780809058280. \[Preview with [Google Books](https://books.google.com/books?id=N1WYCn1GPJAC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[T\] = Trachtenberg, Alan. _The Incorporation of America: Culture and Society in the Gilded Age: 25th Anniversary Edition_. Hill and Wang, 2007. ISBN: 9780809058280. \[Preview with {{% resource_link "1656a3fe-bf4b-40a8-92e5-1a283940f0ec" "Google Books" %}}\]
 
-\[W\]= Williams, Robert F. _Negroes with Guns_. Foreword by Gloria House. Introduction by Timothy B. Tyson. Wayne State University Press, 1998. ISBN: 9780814327142. \[Preview with [Google Books](https://books.google.com/books?id=i4YiA0jWz4EC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[W\]= Williams, Robert F. _Negroes with Guns_. Foreword by Gloria House. Introduction by Timothy B. Tyson. Wayne State University Press, 1998. ISBN: 9780814327142. \[Preview with {{% resource_link "2477ae77-45b7-48af-898d-98bcdd094bf5" "Google Books" %}}\]
 
 Note: All readings are required unless otherwise indicated.
 
@@ -76,9 +74,9 @@ Reconstruction, Race, and Reunion
 
 \[F\] Chapter 9: The Challenge of Enforcement.
 
-Blight, David W. "[The Civil War in American Memory](https://www.nps.gov/articles/the-civil-war-in-american-memory.htm)." National Park Service.
+Blight, David W. "{{% resource_link "41edcaf0-0234-4a58-91db-8beda9e8dc3d" "The Civil War in American Memory" %}}." National Park Service.
 
-Coates,Ta-Nehisi. "[Why Do So Few Blacks Study the Civil War?](https://www.theatlantic.com/magazine/archive/2012/02/why-do-so-few-blacks-study-the-civil-war/308831/)" _The Atlantic: The Civil War Issue,_ 2011.
+Coates,Ta-Nehisi. "{{% resource_link "78f5c528-c41c-4137-bbab-ead46e87d561" "Why Do So Few Blacks Study the Civil War?" %}}" _The Atlantic: The Civil War Issue,_ 2011.
 
 
 {{< tdclose >}}
@@ -94,19 +92,19 @@ Analyzing Primary Sources: Reconstruction
 {{< tdopen >}}
 
 
-Anderson, Jourdan. "[To My Old Master](http://www.lettersofnote.com/2012/01/to-my-old-master.html)," August 7, 1865. Letters of Note.
+Anderson, Jourdan. "{{% resource_link "0943b798-021b-4f7d-9301-c87a379892b0" "To My Old Master" %}}," August 7, 1865. Letters of Note.
 
 Krauthamer, Barbara, and Chad Williams, eds. "Captain Charles Soule, Northern Army Officer, Lectures Ex-Slaves on the Responsibilities of Freedom,1865." Chapter 10.3 in _Major Problems in African American History_. 2nd edition. Cengage Learning, 2017. ISBN: 9781305639942. 
 
 ———. "Harriet Hernandes, a South Carolina Woman, Testifies Against the Ku Klux Klan, 1871." Chapter 10.6 in _Major Problems in African American History_. 2nd edition. Cengage Learning, 2017. ISBN: 9781305639942. 
 
-[Mississippi Black Codes (1865)](http://www.historyisaweapon.com/defcon1/mississippiblackcode.html). History is a Weapon.
+{{% resource_link "3d980239-3d2a-47bf-9898-6bc30196e462" "Mississippi Black Codes (1865)" %}}. History is a Weapon.
 
-[Address of the Colored Convention to the People of Alabama \[Mobile, Al; 1867\]](https://redasfolk.wordpress.com/2017/03/31/address-of-the-colored-convention-to-the-people-of-alabama-mobile-al-1867/). Red as Folk.
+{{% resource_link "43e52209-a1de-4d00-b942-587a5beb1ecf" "Address of the Colored Convention to the People of Alabama [Mobile, Al; 1867]" %}}. Red as Folk.
 
-[Edward Crosby Testimony Regarding the KKK, 1872](https://www.scribd.com/document/277834599/Edward-Crosby-Testimony-Regarding-the-KKK-1872). Scribd.
+{{% resource_link "fa92c58f-53a4-4594-a924-d3f7d59270e7" "Edward Crosby Testimony Regarding the KKK, 1872" %}}. Scribd.
 
-Douglass, Frederick. "[Why Reconstruction Failed \[August 1, 1880\]](https://www.marxists.org/history/etol/newspape/fi/vol07/no09/freddoug.htm#s3)." Marxists Internet Archive.
+Douglass, Frederick. "{{% resource_link "492c23b7-78cf-4e56-a77c-453742f8ef6a" "Why Reconstruction Failed [August 1, 1880]" %}}." Marxists Internet Archive.
 
 
 {{< tdclose >}}
@@ -117,7 +115,7 @@ Douglass, Frederick. "[Why Reconstruction Failed \[August 1, 1880\]](https://www
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Screening: [_Independent Lens: Birth of a Movement - The Battle Against American's First Blockbuster_](https://www.imdb.com/title/tt6516480/). 
+Screening: {{% resource_link "9df77a25-9459-4f42-806e-ac6150efbd14" "_Independent Lens: Birth of a Movement - The Battle Against American's First Blockbuster_" %}}. 
 {{< tdclose >}}
 {{< tdopen >}}
 No readings assigned. Work on Essay #1.
@@ -140,19 +138,19 @@ Conflict and Conquest in The Frontier West
 {{< tdopen >}}
 
 
-\[T\] "Preface." \[Preview with [Google Books](https://books.google.com/books?id=N1WYCn1GPJAC&pg=PA3=onepage#v=onepage&q&f=false)\]
+\[T\] "Preface." \[Preview with {{% resource_link "28826772-aba6-485c-8805-a2a545d88963" "Google Books" %}}\]
 
-\[T\] Chapter 1: The Western Route. \[Preview with [Google Books](https://books.google.com/books?id=N1WYCn1GPJAC&pg=PA11=onepage#v=onepage&q&f=false)\]
+\[T\] Chapter 1: The Western Route. \[Preview with {{% resource_link "d8794866-5e91-415d-8d34-40ee9a1617e2" "Google Books" %}}\]
 
-Turner, Frederick Jackson. ["The Significance of the Frontier in American History," 1893. (PDF)](http://nationalhumanitiescenter.org/pds/gilded/empire/text1/turner.pdf) National Humanities Center.
+Turner, Frederick Jackson. {{% resource_link "b04d5b2f-a37d-4ecb-b280-d778feca3fbe" "\"The Significance of the Frontier in American History,\" 1893. (PDF)" %}} National Humanities Center.
 
-Chew, Lee. "[Life of a Chinese Immigrant (1903)](https://www.wwnorton.com/college/history/archive/reader/trial/directory/1890_1914/28_ndh.htm)." W.W. Norton & Company, Inc.
+Chew, Lee. "{{% resource_link "f623c9a5-e1fc-4c42-8adc-e50a4544d7f2" "Life of a Chinese Immigrant (1903)" %}}." W.W. Norton & Company, Inc.
 
 _Recommended_
 
-Lee, Erika. "[The Chinese Exclusion Example: Race, Immigration, and American Gatekeeping, 1882–1924](https://www.jstor.org/stable/27502847?seq=1#page_scan_tab_contents)." _Journal of American Ethnic History_ 21, no. 3 (2002): 36–62.
+Lee, Erika. "{{% resource_link "dbf6a30c-2ccc-4d61-a28f-8cc84c45e415" "The Chinese Exclusion Example: Race, Immigration, and American Gatekeeping, 1882–1924" %}}." _Journal of American Ethnic History_ 21, no. 3 (2002): 36–62.
 
-Schivelbusch, Wolfgang. "Railroad Space and Railroad Time." Chapter 3 in _The Railway Journey: The Industrialization of Time and Space in the Nineteenth Century_. University of California Press, 2014. ISBN: 9780520282261. \[Preview with [Google Books](https://books.google.com/books?id=YzuJAwAAQBAJ&pg=PA33=onepage#v=onepage&q&f=false)\]
+Schivelbusch, Wolfgang. "Railroad Space and Railroad Time." Chapter 3 in _The Railway Journey: The Industrialization of Time and Space in the Nineteenth Century_. University of California Press, 2014. ISBN: 9780520282261. \[Preview with {{% resource_link "48e125a0-b0c2-41d0-947c-1b9c79f4ccf2" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -172,9 +170,9 @@ Capital, Labor, and the Standardization of Work
 
 \[T\] Chapter 3: Capital and Labor. 
 
-Jones, Rev. Jesse H., and I.G. Blanchard. "[Eight-Hours](https://www.marxists.org/subject/mayday/music/eighthour.html).” Marxists Internet Archive.
+Jones, Rev. Jesse H., and I.G. Blanchard. "{{% resource_link "b890a377-c1a8-41d5-8d29-7fe29f2c93f8" "Eight-Hours" %}}.” Marxists Internet Archive.
 
-Taylor, Frederick Winslow. ["The Principles of Scientific Management,” 1910. (PDF)](http://nationalhumanitiescenter.org/pds/gilded/progress/text3/taylor.pdf) National Humanities Center.
+Taylor, Frederick Winslow. {{% resource_link "ae52c6ae-bafa-4c7b-b15c-bab4cd3b5967" "\"The Principles of Scientific Management,” 1910. (PDF)" %}} National Humanities Center.
 
 _Recommended_
 
@@ -198,7 +196,7 @@ Turning Points: 1893 and 1894
 
 \[T\] Chapter 7: White City.
 
-Allen, Jon. "[Capital Versus Labor: The Pullman Strike Showdown](http://www.politicalaffairs.net/capital-versus-labor-the-pullman-strike-showdown/)." _Political Affairs_, September 28, 2007.
+Allen, Jon. "{{% resource_link "fb24f54e-1ae8-456d-a2a6-7752b33c4a66" "Capital Versus Labor: The Pullman Strike Showdown" %}}." _Political Affairs_, September 28, 2007.
 
 
 {{< tdclose >}}
@@ -220,11 +218,11 @@ Becoming a World Power
 {{< tdopen >}}
 
 
-Brewer, Susan A. "The 'Divine Mission': War in the Philippines." Chapter 1 in _Why America Fights: Patriotism and War Propaganda from the Philippines to Iraq_. Oxford University Press, 2011. ISBN: 9780199753963. \[Preview with [Google Books](https://books.google.com/books?id=YlkWDAAAQBAJ&pg=PA14=onepage#v=onepage&q&f=false)\]
+Brewer, Susan A. "The 'Divine Mission': War in the Philippines." Chapter 1 in _Why America Fights: Patriotism and War Propaganda from the Philippines to Iraq_. Oxford University Press, 2011. ISBN: 9780199753963. \[Preview with {{% resource_link "2c65aeb2-1d3b-4857-8552-0fbbb95c67f8" "Google Books" %}}\]
 
-Silva, Noenoe K. "[The 1897 Petitions Protesting Annexation](http://libweb.hawaii.edu/digicoll/annexation/petition/pet-intro.php)," 1998. The Annexation Of Hawaii: A Collection Of Documents, University of Hawaii at Manoa Library.
+Silva, Noenoe K. "{{% resource_link "d3f53be6-fc75-4495-a7d1-3a217252b849" "The 1897 Petitions Protesting Annexation" %}}," 1998. The Annexation Of Hawaii: A Collection Of Documents, University of Hawaii at Manoa Library.
 
-[Platform of the American Anti-Imperialist League](https://sourcebooks.fordham.edu/mod/1899antiimp.asp). Modern History Sourcebook: American Anti-Imperialist League, 1899. Fordham University.
+{{% resource_link "a7807db1-a168-45bf-9b7b-a5324f29c06d" "Platform of the American Anti-Imperialist League" %}}. Modern History Sourcebook: American Anti-Imperialist League, 1899. Fordham University.
 
 
 {{< tdclose >}}
@@ -248,7 +246,7 @@ Gilman, Charlotte Perkins. "A Feminist Challenge to the Privatized Home." In _Mo
 
 "Social Worker Jane Addams Advocates Civic Housekeeping, 1906." In _Major Problems in American History, Volume II: Since 1865_. 3rd edition. Edited by Elizabeth Cobbs-Hoffman, Edward J. Blum, and Jon Gjerde. Cengage Learning, 2011. ISBN: 9781111343163. 
 
-["I Am Almost a Prisoner": Women Plead for Contraception](http://historymatters.gmu.edu/d/5083/). History Matters.
+{{% resource_link "7fbad48e-128e-4902-9a91-3e0dbd3edb40" "\"I Am Almost a Prisoner\": Women Plead for Contraception" %}}. History Matters.
 
 
 {{< tdclose >}}
@@ -268,11 +266,11 @@ Susman, Warren I. "Culture and Civilization in the Nineteen-Twenties." Chapter 7
 
 _Students will be assigned ONE of the following articles:_
 
-Ngai, Mae M. "[Nationalism, Immigration Control, and the Ethnoracial Remapping of America in the 1920s](https://academic.oup.com/maghis/article-abstract/21/3/11/966191)." _OAH Magazine of History_ 21, no. 3 (2007): 11–15.
+Ngai, Mae M. "{{% resource_link "f99312b5-6741-45d2-9f72-182cb139301f" "Nationalism, Immigration Control, and the Ethnoracial Remapping of America in the 1920s" %}}." _OAH Magazine of History_ 21, no. 3 (2007): 11–15.
 
-Glickman, Lawrence B. "[Rethinking Politics: Consumers and the Public Good during the 'Jazz Age'](https://academic.oup.com/maghis/article-abstract/21/3/16/966218)." _OAH Magazine of History_ 21, no. 3 (2007): 16–20.
+Glickman, Lawrence B. "{{% resource_link "ab5d50f2-631d-4639-9fa6-ed4be6a2004a" "Rethinking Politics: Consumers and the Public Good during the 'Jazz Age'" %}}." _OAH Magazine of History_ 21, no. 3 (2007): 16–20.
 
-Dumenil, Lynn. "[The New Woman and the Politics of the 1920s](https://academic.oup.com/maghis/article-abstract/21/3/22/966222)." _OAH Magazine of History_ 21, no. 3 (2007): 22–26.
+Dumenil, Lynn. "{{% resource_link "b80f7213-ffbf-45de-b07c-2f7cfb128f8a" "The New Woman and the Politics of the 1920s" %}}." _OAH Magazine of History_ 21, no. 3 (2007): 22–26.
 
 
 {{< tdclose >}}
@@ -304,7 +302,7 @@ The Great Depression and the New Deal
 
 \[P\] Chapter 6: Race, Ethnicity, and Reform, pp. 142–56.
 
-Selections from _Dear Mrs. Roosevelt: Letters from Children of the Great Depression_. Edited by Robert Cohen. University of North Carolina Press, 2002. ISBN: 9780807854136. \[Preview with [Google Books](https://books.google.com/books?id=GYEQinNCTJ4C&pg=PAfrontcover#v=onepage&q&f=false)\]
+Selections from _Dear Mrs. Roosevelt: Letters from Children of the Great Depression_. Edited by Robert Cohen. University of North Carolina Press, 2002. ISBN: 9780807854136. \[Preview with {{% resource_link "7d3742da-b2ee-4940-8fc8-1dd60a0d1119" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -322,13 +320,13 @@ The Second World War
 
 Dower, Jon W. "Race, Language, and War in Two Cultures: WWII in Asia." Chapter 7 in _The War in American Culture: Society and Consciousness during World War II_. Edited by Lewis A. Erenberg and Susan E. Hirsch. University of Chicago Press, 1996. ISBN: 9780226215129. 
 
-Terkel, Studs. "Rosie: Peggy Terry." In _"The Good War": An Oral History of World War II_. New Press, 1997, pp. 108–13. ISBN: 9781565843431. \[Preview with [Google Books](https://books.google.com/books?id=tg4KilgfNY4C&pg=PA108=onepage#v=onepage&q&f=false)\]
+Terkel, Studs. "Rosie: Peggy Terry." In _"The Good War": An Oral History of World War II_. New Press, 1997, pp. 108–13. ISBN: 9781565843431. \[Preview with {{% resource_link "a5d1e1dc-0cea-474a-889c-095c495a7890" "Google Books" %}}\]
 
-[_Korematsu v. United States_: The U.S. Supreme Court Upholds Internment](http://historymatters.gmu.edu/d/5151). History Matters.
+{{% resource_link "35cdd663-b2c8-44d1-9421-bf35744500c1" "_Korematsu v. United States_: The U.S. Supreme Court Upholds Internment" %}}. History Matters.
 
 _Recommended_
 
-[A More Perfect Union: Japanese Americans & the U.S. Constitution](http://amhistory.si.edu/perfectunion/non-flash/index.html). Smithsonian National Museum of American History.
+{{% resource_link "5d08142e-433c-436e-9546-108f6da5261d" "A More Perfect Union: Japanese Americans & the U.S. Constitution" %}}. Smithsonian National Museum of American History.
 
 
 {{< tdclose >}}
@@ -344,9 +342,9 @@ The United States and the Creation of Three Worlds
 {{< tdopen >}}
 
 
-Westad, Odd Arne. "Creating the Third World: The United States Confronts Revolution." Chapter 4 in _The Global Cold War: Third World Interventions and the Making of Our Times_. Cambridge University Press, 2007. ISBN: 9780521703147. \[Preview with [Google Books](https://books.google.com/books?id=4T9dAAAAQBAJ&pg=PA110=onepage#v=onepage&q&f=false)\]
+Westad, Odd Arne. "Creating the Third World: The United States Confronts Revolution." Chapter 4 in _The Global Cold War: Third World Interventions and the Making of Our Times_. Cambridge University Press, 2007. ISBN: 9780521703147. \[Preview with {{% resource_link "b35a83bc-73b5-42a8-bd4c-d0a9e9e2586a" "Google Books" %}}\]
 
-Luce, Henry R. "The American Century." In _The Ambiguous Legacy: U.S. Foreign Relations in the "American Century"_. Edited by Michael J. Hogan. Cambridge University Press, 1999. ISBN: 9780521779777. \[Preview with [Google Books](https://books.google.com/books?id=T_QfEZw6hKkC&pg=PA11=onepage#v=onepage&q&f=false)\]
+Luce, Henry R. "The American Century." In _The Ambiguous Legacy: U.S. Foreign Relations in the "American Century"_. Edited by Michael J. Hogan. Cambridge University Press, 1999. ISBN: 9780521779777. \[Preview with {{% resource_link "3440da77-f887-48cf-b183-c23fc8e6f071" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -370,7 +368,7 @@ Cold War Culture and the Quest for Security
 
 May, Elaine Tyler. "Explosive Issues: Sex, Women, and the Bomb." Chapter 8 in _Recasting America: Culture and Politics in the Age of Cold War_. Edited by Lary May. University of Chicago Press, 1988. ISBN: 9780226511764. 
 
-"[Employment of Homosexuals and Other Sex Perverts in Government (1950)](https://www.pbs.org/wgbh/pages/frontline/shows/assault/context/employment.html)." Frontline.
+"{{% resource_link "d2fd86ee-f5b1-4456-9644-6934ec1dcb0d" "Employment of Homosexuals and Other Sex Perverts in Government (1950)" %}}." Frontline.
 
 
 {{< tdclose >}}
@@ -386,13 +384,13 @@ Space, Place, and Race in Postwar America
 {{< tdopen >}}
 
 
-Sugrue, Thomas J. "Introduction." In _The Origins of the Urban Crisis: Race and Inequality in Postwar Detroit_. Princeton University Press, 2014. ISBN: 9780691162553. \[Preview with [Google Books](https://books.google.com/books?id=ewajAgAAQBAJ&pg=PA3=onepage#v=onepage&q&f=false)\]
+Sugrue, Thomas J. "Introduction." In _The Origins of the Urban Crisis: Race and Inequality in Postwar Detroit_. Princeton University Press, 2014. ISBN: 9780691162553. \[Preview with {{% resource_link "bbb6666d-9a36-40b3-bd26-2609730c251c" "Google Books" %}}\]
 
 Spigel, Lynn. "Outer Space and Inner Cities: African Americans Respond to NASA." In _Welcome to the Dreamhouse: Popular Media and Postwar Suburbs_. Duke University Press Books, 2001. ISBN: 9780822326960.
 
 _Recommended_
 
-Cohen, Lizabeth. "[From Town Center to Shopping Center: The Reconfiguration of Community Marketplaces in Postwar America](https://www.jstor.org/stable/2169634?seq=1#page_scan_tab_contents)." _American Historical Review_ 101, no. 4 (1996):1050–81.
+Cohen, Lizabeth. "{{% resource_link "b13450e0-6f7c-40c9-8e57-101ba25d12b8" "From Town Center to Shopping Center: The Reconfiguration of Community Marketplaces in Postwar America" %}}." _American Historical Review_ 101, no. 4 (1996):1050–81.
 
 
 {{< tdclose >}}
@@ -412,19 +410,19 @@ The Long Civil Rights Movement
 
 \[W\] Tyson, Timothy. "Robert F. Williams, 'Black Power,' and the Roots of the African American Freedom Struggle."
 
-Gage, Beverly. "[What an Uncensored Letter to M.L.K. Reveals](https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html)," _New York Times Magazine_, November 11, 2014.
+Gage, Beverly. "{{% resource_link "536a2340-80f1-43e3-9725-ab678b39fa4b" "What an Uncensored Letter to M.L.K. Reveals" %}}," _New York Times Magazine_, November 11, 2014.
 
-Hall, Jacquelyn Dowd. "[The Long Civil Rights Movement and the Political Uses of the Past](https://www.jstor.org/stable/3660172?seq=1#page_scan_tab_contents)." _Journal of American History_ 91, no. 4 (2005): 1233–63.
+Hall, Jacquelyn Dowd. "{{% resource_link "103b2ad5-3cff-466f-80fb-5855a8b3648c" "The Long Civil Rights Movement and the Political Uses of the Past" %}}." _Journal of American History_ 91, no. 4 (2005): 1233–63.
 
-Dudziak, Mary. "[Brown as a Cold War Case](https://www.jstor.org/stable/3659611?seq=1#page_scan_tab_contents)." _Journal of American History_ 91, no. 1 (2004): 32–42.
+Dudziak, Mary. "{{% resource_link "e56454c9-5ccd-4d17-8a26-57c6696184c9" "Brown as a Cold War Case" %}}." _Journal of American History_ 91, no. 1 (2004): 32–42.
 
-Ogbar, Jeffrey O.G. "[The FBI’s War on Civil Rights Leaders](https://www.thedailybeast.com/the-fbis-war-on-civil-rights-leaders)," January 16, 2017. Daily Beast. 
+Ogbar, Jeffrey O.G. "{{% resource_link "8df6b6a4-2e43-4dfc-9363-330d71a79fe1" "The FBI’s War on Civil Rights Leaders" %}}," January 16, 2017. Daily Beast. 
 
 _View_
 
-HBO. "[King In The Wilderness Official Trailer (2018) | HBO](https://www.youtube.com/watch?v=aVGRg89DbyM)." March 7, 2018. YouTube.
+HBO. "{{% resource_link "d4675c61-e8ba-450a-9825-676b4119b962" "King In The Wilderness Official Trailer (2018) | HBO" %}}." March 7, 2018. YouTube.
 
-"[Eyes On The Prize - (Part 1) Awakenings 1954–1956](https://www.youtube.com/watch?v=Ts10IVzUDVw)." April 13, 2016. YouTube.
+"{{% resource_link "ef887e71-896c-4741-9476-a535d2723247" "Eyes On The Prize - (Part 1) Awakenings 1954–1956" %}}." April 13, 2016. YouTube.
 
 
 {{< tdclose >}}
@@ -442,11 +440,11 @@ The International Black Freedom Struggle
 
 \[W\] Note: Read the entire book.
 
-Gaines, Kevin. "[A World to Win: The International Dimension of the Black Freedom Movement](https://academic.oup.com/maghis/article-abstract/20/5/14/961038)." _OAH Magazine of History_ 20, no. 5 (2006): 14–18.
+Gaines, Kevin. "{{% resource_link "7cc2aa91-9467-44a4-b118-acc840c80a95" "A World to Win: The International Dimension of the Black Freedom Movement" %}}." _OAH Magazine of History_ 20, no. 5 (2006): 14–18.
 
 _View_
 
-"[Negroes with Guns](https://www.youtube.com/watch?v=n-xsbU1p7q0)." July 9, 2017. YouTube.
+"{{% resource_link "a00ddb04-6544-4f88-88aa-c9e6012a2dbe" "Negroes with Guns" %}}." July 9, 2017. YouTube.
 
 
 {{< tdclose >}}
@@ -468,17 +466,17 @@ Vietnam and the New Left
 {{< tdopen >}}
 
 
-Hall, Mitchell K. "[The Vietnam Era Antiwar Movement](https://academic.oup.com/maghis/article-abstract/18/5/13/1009043)." _OAH Magazine of History_ 18, no. 5 (2004): 13–17.
+Hall, Mitchell K. "{{% resource_link "5f371e4b-253b-46c0-9425-0fcb4dffcce8" "The Vietnam Era Antiwar Movement" %}}." _OAH Magazine of History_ 18, no. 5 (2004): 13–17.
 
-Lubar, Steven. "['Do Not Fold, Spindle or Mutilate': a Cultural History of the Punch Card](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1542-734X.1992.1504_43.x)." _Journal of American Culture_ 15, no. 4 (1992) pp. 43–53.
+Lubar, Steven. "{{% resource_link "2b64da63-667c-455e-8365-fb9461403292" "'Do Not Fold, Spindle or Mutilate': a Cultural History of the Punch Card" %}}." _Journal of American Culture_ 15, no. 4 (1992) pp. 43–53.
 
-Savio, Mario. "[And End to History](http://www.historyisaweapon.com/defcon1/savioendofhistory.html)," 1964. History is a Weapon.
+Savio, Mario. "{{% resource_link "1d2bba7a-d5f2-461f-81bd-5c333c539971" "And End to History" %}}," 1964. History is a Weapon.
 
-King, Jr., Martin Luther. "[Declaration of Independence from the War in Vietnam (1967)](http://www.declarationproject.org/?p=1185)." Declaration Project.
+King, Jr., Martin Luther. "{{% resource_link "d4222c64-6dcd-45bb-84fe-59d6064ed11b" "Declaration of Independence from the War in Vietnam (1967)" %}}." Declaration Project.
 
 _Recommended_
 
-Lawrence, Mark Atwood. "Escalation." Chapter 4 in _The Vietnam War: A Concise International History_. Oxford University Press, 2010. ISBN: 9780199753932. \[Preview with [Google Books](https://books.google.com/books?id=WF4JJxywdbEC&pg=PA67=onepage#v=onepage&q&f=false)\]
+Lawrence, Mark Atwood. "Escalation." Chapter 4 in _The Vietnam War: A Concise International History_. Oxford University Press, 2010. ISBN: 9780199753932. \[Preview with {{% resource_link "e547d387-a192-4872-9849-26cf04dbc142" "Google Books" %}}\]
 
 ———. "War on Many Fronts." Chapter 5 in _The Vietnam War: A Concise International History_. Oxford University Press, 2010. ISBN: 9780199753932. 
 
@@ -496,21 +494,21 @@ Power, Protest, and the Politics of Identity
 {{< tdopen >}}
 
 
-"[Black Panther Party Platform, Program, and Rules](http://www.historyisaweapon.com/defcon1/bpp.html)." History is a Weapon.
+"{{% resource_link "24e6742d-b181-4f48-a64b-aff9005b4c3d" "Black Panther Party Platform, Program, and Rules" %}}." History is a Weapon.
 
-[_The Black Panther_ 2, no. 2 (1968). (PDF - 3MB)](http://www.itsabouttimebpp.com/BPP_Newspapers/pdf/Vol_II_No1_1968.pdf) It's About Time - Black Panther Party Legacy & Alumni. _(skim)_
+{{% resource_link "77a0c053-2d10-4ffd-9a1a-ec2d9892d96d" "_The Black Panther_ 2, no. 2 (1968). (PDF - 3MB)" %}} It's About Time - Black Panther Party Legacy & Alumni. _(skim)_
 
-Strait, Guy. ["What is a Hippie?," 1967. (PDF)](http://faculty.atu.edu/cbrucker/Amst2003/Texts/Hippie.pdf)
+Strait, Guy. {{% resource_link "fb003228-7d56-4c2e-94f6-284783777519" "\"What is a Hippie?,\" 1967. (PDF)" %}}
 
 Sinclair, John. "Rock and Roll is a Weapon of Cultural Revolution." In _Guitar Army: Rock & Revolution with The MC5 & the White Panther Party_. Process, 2007. ISBN: 9781934170007. 
 
-New York Radical Women. "[No More Miss America!](http://www.redstockings.org/index.php/no-more-miss-america)," August 22, 1968. Redstockings.
+New York Radical Women. "{{% resource_link "93250fd5-cc21-42a8-8dde-f073a907ae17" "No More Miss America!" %}}," August 22, 1968. Redstockings.
 
-Hanisch, Carol. "[The Personal is Political](http://www.carolhanisch.org/CHwritings/PIP.html)," February 1969. CarolHanisch.org. _(skim the January 2006 introduction)_
+Hanisch, Carol. "{{% resource_link "0908ff92-279e-4be9-a181-9a532be98006" "The Personal is Political" %}}," February 1969. CarolHanisch.org. _(skim the January 2006 introduction)_
 
-American Indian Center. "[Seizure of Alcatraz Island](http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtid=3&psid=721)," 1969. Digital History.
+American Indian Center. "{{% resource_link "8ef24bee-d0cc-4bba-ad0d-395ed7be8bd3" "Seizure of Alcatraz Island" %}}," 1969. Digital History.
 
-Young Lords Party. "[13 Point Program and Platform](http://palante.org/13%20Pt%20Program-1st.htm)," October 1969. Latino Education Network Service.
+Young Lords Party. "{{% resource_link "2c2e3b7a-d2a9-4db7-bd7d-06155b822f2f" "13 Point Program and Platform" %}}," October 1969. Latino Education Network Service.
 
 Whittman, Carl. "Refugees from Amerika: A Gay Manifesto (1970)."  Chapter 11.137 in _The Radical Reader: A Documentary History of the American Radical Tradition_. Edited by Timothy Patrick McCarthy and John Campbell McMillian. New Press, 2003. ISBN: 9781565846821. 
 
@@ -525,7 +523,7 @@ Third World Gay Liberation. "What We Want, What We Believe (1971)." Chapter 11.1
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Visit to [MIT Archives and Special Collections](https://libraries.mit.edu/archives/)
+Visit to {{% resource_link "31d7be2c-0e15-45ec-9cb5-1a58c6ba8374" "MIT Archives and Special Collections" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -534,7 +532,7 @@ No readings assigned.
 
 _View_
 
-"[MIT: Progressions (1969)](https://www.youtube.com/watch?v=p3mq5E0GwLA)." July 18, 2017. YouTube.
+"{{% resource_link "fe5efc1c-ae9b-4113-ab8f-0524347c69ec" "MIT: Progressions (1969)" %}}." July 18, 2017. YouTube.
 
 
 {{< tdclose >}}
@@ -586,9 +584,9 @@ Conservatives in Power and the Long Life of “Law and Order”
 {{< tdopen >}}
 
 
-Thompson, Heather Ann. "[Why Mass Incarceration Matters: Rethinking Crisis, Decline, and Transformation in Postwar American History](https://academic.oup.com/jah/article/97/3/703/749784)." _Journal of American History_ 97, no. 3 (2010): 703–34.
+Thompson, Heather Ann. "{{% resource_link "adc09bfb-1897-4f03-b441-3cebc6550b26" "Why Mass Incarceration Matters: Rethinking Crisis, Decline, and Transformation in Postwar American History" %}}." _Journal of American History_ 97, no. 3 (2010): 703–34.
 
-Carter, Dan T. "[The Rise of Conservatism Since World War II](https://academic.oup.com/maghis/article-abstract/17/2/11/1051196?redirectedFrom=fulltext)." _OAH Magazine of History_ 17, no. 2 (2003): 11–16.
+Carter, Dan T. "{{% resource_link "b45c4f48-9eb9-4c51-8be8-b8bae6f515c2" "The Rise of Conservatism Since World War II" %}}." _OAH Magazine of History_ 17, no. 2 (2003): 11–16.
 
 
 {{< tdclose >}}
@@ -604,11 +602,11 @@ The Rediscovery of the Market and the Rise of a Digital Age
 {{< tdopen >}}
 
 
-Metcalf, Stephen. "[Neoliberalism: The Idea that Swallowed the World](https://www.theguardian.com/news/2017/aug/18/neoliberalism-the-idea-that-changed-the-world)," _The Guardian_, August 18, 2017.
+Metcalf, Stephen. "{{% resource_link "575391c3-23ba-4c4c-ab07-c5097212841f" "Neoliberalism: The Idea that Swallowed the World" %}}," _The Guardian_, August 18, 2017.
 
-O’Mara, Margaret. "[The Future of Work: The Technology Industry is Changing the Rules](https://psmag.com/economics/the-future-of-work-the-technology-industry-is-changing-the-rules)." _Pacific Standard_, October 16, 2015.
+O’Mara, Margaret. "{{% resource_link "e6f80e7a-9d16-4d96-aa31-9e36103e29b0" "The Future of Work: The Technology Industry is Changing the Rules" %}}." _Pacific Standard_, October 16, 2015.
 
-Barlow, Jack Perry. "[Jack In, Young Pioneer!](https://www.eff.org/pages/jack-young-pioneer)" Keynote Essay for the 1994 Computerworld College Edition. Electronic Frontier Foundation.
+Barlow, Jack Perry. "{{% resource_link "7b74609a-f57b-4cf5-afef-165326d4f00d" "Jack In, Young Pioneer!" %}}" Keynote Essay for the 1994 Computerworld College Edition. Electronic Frontier Foundation.
 
 _Recommended_
 
@@ -634,9 +632,9 @@ Growing Up in the Twenty-First Century
 {{< tdopen >}}
 
 
-Silva, Jennifer M. "Coming of Age in the Risk Society." Chapter 1 in _Coming Up Short: Working-Class Adulthood in an Age of Uncertainty_. Oxford University Press, 2015. ISBN: 9780190231897. \[Preview with [Google Books](https://books.google.com/books?id=5iI53Z1w6p4C&pg=PA3=onepage#v=onepage&q&f=false)\] 
+Silva, Jennifer M. "Coming of Age in the Risk Society." Chapter 1 in _Coming Up Short: Working-Class Adulthood in an Age of Uncertainty_. Oxford University Press, 2015. ISBN: 9780190231897. \[Preview with {{% resource_link "07a86193-37cd-453d-a2fc-9300eee8edc2" "Google Books" %}}\] 
 
-"[Sherry Turkle: Connected, But Alone?](https://www.ted.com/talks/sherry_turkle_alone_together)" TED Talk, 2012.
+"{{% resource_link "39c8d54c-35ea-4873-aedf-b037bf5cf170" "Sherry Turkle: Connected, But Alone?" %}}" TED Talk, 2012.
 
 
 {{< tdclose >}}

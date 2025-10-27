@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the requirements for the final paper proposal and
   for the final paper.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +25,7 @@ Proposals should be written in prose, and should include three paragraphs that o
 
 *   Paragraph 1: The broad topic you plan to study and initial ideas for ways to narrow, refine, and focus that topic. This paragraph should include some kind of reference to material covered in the course (this can be a direct quote from a lecture or reading, or an indirect reference to an argument / idea / concept).
 *   Paragraph 2: 1–3 historical questions (see {{% resource_link a09371ad-1037-861a-3ad8-9108af4064db "Choosing a Topic and Asking a Question" %}}) you might consider asking about your topic, and an articulation explaining why this topic matters (to you, and potentially to other historians or scholars).
-*   Paragraph 3: A preliminary plan for how you will approach your topic, and the sources you will draw on. This should include relevant secondary sources (from class or found outside class) and a discussion of specific primary sources or source collections you plan to analyze (for example, "beer advertisements from the 1950s," "issues of the [_MIT Technology Review_](https://www.technologyreview.com/) describing student activism in the 1960s").
+*   Paragraph 3: A preliminary plan for how you will approach your topic, and the sources you will draw on. This should include relevant secondary sources (from class or found outside class) and a discussion of specific primary sources or source collections you plan to analyze (for example, "beer advertisements from the 1950s," "issues of the {{% resource_link "d4c1f397-55e8-44f9-af43-220569a57707" "_MIT Technology Review_" %}} describing student activism in the 1960s").
 
 2\. Requirements for the Final Paper
 ------------------------------------
@@ -38,7 +36,7 @@ The argument in your paper should be supported by ample evidence. Evidence suppo
 
 All papers must include analysis of at least three primary sources (depending on your topic, you will likely need more). You will be responsible for finding these sources on your own. Primary sources can include newspaper or magazine articles, films, images, advertisements, diaries, memoirs, oral histories, manifestoes, government documents, or any materials produced by historical actors during your period of study. Students experiencing difficulty in locating primary sources should consult an instructor or a librarian.
 
-Papers should no shorter than 2500 words (or approximately 10 pages) in length, double-spaced, and written in a 12 point font (Times New Roman or an equivalent). They should include page numbers, properly formatted footnotes with accurate citations (see the [Chicago-Style Citation Quick Guide](http://www.chicagomanualofstyle.org/tools_citationguide.html) ), and a title that reflects the paper’s argument. 
+Papers should no shorter than 2500 words (or approximately 10 pages) in length, double-spaced, and written in a 12 point font (Times New Roman or an equivalent). They should include page numbers, properly formatted footnotes with accurate citations (see the {{% resource_link "b1f4ef0a-ceaf-4b16-b5d3-b2f896cbc4e5" "Chicago-Style Citation Quick Guide" %}} ), and a title that reflects the paper’s argument. 
 
 Final Papers will be evaluated according to:
 --------------------------------------------
